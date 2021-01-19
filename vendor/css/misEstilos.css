@@ -1,0 +1,39 @@
+
+.fondo {
+    background-color: #ff4618;
+}
+
+.fondoLogin {
+    background-color: #c4c0bf;
+}
+
+.fondoAMB {
+    background-color: #c4c0bf;
+}
+
+h4{
+    font-family: "Roboto";
+}
+
+.color-fondo{
+    background-color: blue;
+    color: blue;
+}
+
+.label{
+    width: 100px;
+    height: 37px;
+    padding: 5px;  
+}
+
+.caja {
+    position: relative;
+    display: inline-block;
+}
+
+.titulo {
+ position: absolute;
+ top: 70%;
+ right: 5%;
+}
+
